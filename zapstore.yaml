@@ -1,0 +1,34 @@
+repository: https://github.com/cleuenberg/crystal-worlds-android
+name: Crystal Worlds
+description: |
+    Crystal Worlds is a tactical RPG in 16-bit style with monsters to collect.
+    A shadow has scattered the five crystals that keep the worlds in balance –
+    lead Lian and friends across grid battlefields to bring them back.
+
+    Turn-based battles with terrain, elements and double attacks, dark caves lit
+    only by lamps and torches, bosses guarding every world. Weaken wild monsters
+    and seal them: 15 species, each with three evolution stages. Companions give
+    bonus stats, fight on their own and unleash co-op attacks with their hero.
+
+    Chiptune music on an emulated 16-bit sound chip, German and English.
+    Plays fully offline – no ads, no in-app purchases, no tracking.
+summary: Tactical 16-bit RPG – lead your party, seal monsters, win back the crystals
+tags:
+    - game
+    - rpg
+    - strategy
+    - tactics
+    - monsters
+    - retro
+    - offline
+website: https://crystalworlds.tvir.games
+icon: ./assets/icon.png
+images:
+    - ./assets/screenshots/01-battle.png
+    - ./assets/screenshots/02-coop.png
+    - ./assets/screenshots/03-overworld.png
+    - ./assets/screenshots/04-story.png
+    - ./assets/screenshots/05-collection.png
+    - ./assets/screenshots/06-title.png
+metadata_sources:
+    - github
